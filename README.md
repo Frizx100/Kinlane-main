@@ -8,5 +8,5 @@
 
 Авторизація
 
-![image](Snipaste_2025-02-10_19-29-08.png)
+![image]([Snipaste_2025-02-10_19-29-08.png](https://github.com/Frizx100/Kinlane-main/blob/main/screen/Snipaste_2025-02-10_19-29-08.png))
 
